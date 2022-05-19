@@ -1,0 +1,8 @@
+application:
+  jwt:
+    prefix: "Bearer "
+    header: "Authorization"
+    expires-at: 86400000
+    secret: "_a_a!FZ&3!XZ93-+!?#nmEBY?DfS#H"
+server:
+  port: 8082
